@@ -6,7 +6,7 @@
     android:layout_height="match_parent">
     <ImageView
         android:id="@+id/imgDevice"
-        android:src="@drawable/tool"
+        android:src="@drawable/device"
         android:layout_centerVertical="true"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
@@ -44,6 +44,6 @@
     <EditText
         android:id="@+id/noteDeviceSave"
         android:visibility="invisible"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+        android:layout_width="30px"
+        android:layout_height="30px" />
 </RelativeLayout>

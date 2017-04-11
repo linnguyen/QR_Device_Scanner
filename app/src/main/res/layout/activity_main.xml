@@ -41,7 +41,7 @@
                 android:layout_height="wrap_content"
                 android:src="@drawable/icon_qr"/>
             <TextView
-                android:text="QR Scanner"
+                android:text="@string/qrscanner"
                 android:textStyle="bold"
                 android:textSize="18dp"
                 android:textColor="#ff6716"
@@ -104,7 +104,7 @@
                 android:layout_height="wrap_content"
                 android:src="@drawable/warehouse"/>
             <TextView
-                android:text="Ware House"
+                android:text="@string/warehouse"
                 android:textStyle="bold"
                 android:textSize="18dp"
                 android:textColor="#795548"

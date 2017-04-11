@@ -1,10 +1,10 @@
 <resources>
     <string name="app_name">QR_Device_Scanner</string>
     <string name="toolbarTitle">Back</string>
-    <string name="inventory">Inventory</string>
-    <string name="status_valuation">Evaluation</string>
+    <string name="inventory">Kiểm Kê</string>
+    <string name="status_valuation">Tình Trạng</string>
     <string name="search">Search</string>
-    <string name="warehouse">Warehouse</string>
+    <string name="warehouse">Nhà Kho</string>
     <string name="sub_device">Sub-Device</string>
     <string name="device">Device</string>
     <string name="name">Name</string>
@@ -20,4 +20,5 @@
         <item>Japan</item>
     </string-array>
     <string name="title_activity_ware_house">WareHouse</string>
+    <string name="qrscanner">Quét Mã QR</string>
 </resources>
